@@ -13,9 +13,15 @@ The objective of the Hangman game is to guess the hidden word or phrase correctl
 
 Gameplay:
 
-->The player starts the game with a certain number of chances (6).
-->The player clicks on letters they believe are in the hidden word/phrase.
-->If a guessed letter is correct, it is revealed in its correct position(s) in the word/phrase, and the player can continue guessing.
-->If a guessed letter is incorrect, the hangman figure is gradually drawn, and the incorrect letter is added to the list of guessed letters.
-->The player wins if they correctly guess the entire word/phrase before running out of chances.
-->The player loses if they use up all their chances before guessing the word/phrase correctly.
+1. The player starts the game with a certain number of chances (6).
+2. The player clicks on letters they believe are in the hidden word/phrase.
+3. If a guessed letter is correct, it is revealed in its correct position(s) in the word/phrase, and the player can continue guessing.
+4. If a guessed letter is incorrect, the hangman figure is gradually drawn, and the incorrect letter is added to the list of guessed letters.
+5. The player wins if they correctly guess the entire word/phrase before running out of chances.
+6. The player loses if they use up all their chances before guessing the word/phrase correctly.
+
+
+
+
+
+
